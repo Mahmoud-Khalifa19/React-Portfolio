@@ -2,15 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 @layer base {
   body {
-    @apply font-[Raleway];
+    @apply font-[Lato];
   }
+
   li{
-    @apply: px-4;
-    @apply: cursor-pointer;
+    @apply px-4;
+    @apply cursor-pointer;
   }
 }
 
