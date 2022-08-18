@@ -17,7 +17,7 @@ const About = () => {
     <p>Hi, I'm Mahmoud a React Developer, nice to meet you. Please feel free to browse my portfolio and get some ideas about how I can build you the project of your dreams.</p>
     </div>
     <div>
-    <p>I am passionate about bulding the latest and greatest software that solves the modern problem.
+    <p>I am passionate about building the latest and greatest software that solves the modern problem.
        My aim is to develop key relationships with clients to help meet their needs. What would you do if you had a developer who is a button away from making that happen? 
     </p>
     </div>

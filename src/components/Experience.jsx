@@ -50,7 +50,7 @@ const Experience = () => {
           
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Aloha Apparell clothing
+                Crwn clothing
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://mahmoud-khalifa19.github.io/crwn-clothing/'>
