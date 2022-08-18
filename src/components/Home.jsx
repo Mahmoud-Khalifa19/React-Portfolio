@@ -15,7 +15,7 @@ const Home = () => {
       </h2>
       <p className='text [#8892b0] py-4 max-w-[700px]'>
       I'm a Front End Developer building web apps specifically using JavaScript & React.
-      Currently I'm building apps in Front End.
+      I have professional work experience buiding web apps Currently I'm building apps in Front End.
       </p>
       <div>
       <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-grey-600 hover:border-grey-600'>
