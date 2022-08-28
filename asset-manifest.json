@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.5c21bcaa.css",
+    "main.js": "/React-Portfolio/static/js/main.7722d119.js",
+    "static/media/nyt.png": "/React-Portfolio/static/media/nyt.c7ab77d86ffc8129547a.png",
+    "static/media/clothes.png": "/React-Portfolio/static/media/clothes.8c36b3c246bf00224ffe.png",
+    "static/media/faceapi.png": "/React-Portfolio/static/media/faceapi.b62961148ca6a8a31e5c.png",
+    "static/media/react.png": "/React-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/React-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/React-Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/React-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/logo.png": "/React-Portfolio/static/media/logo.191dcfcc84f1dbc78097.png",
+    "static/media/tailwind.png": "/React-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/React-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/React-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.5c21bcaa.css.map": "/React-Portfolio/static/css/main.5c21bcaa.css.map",
+    "main.7722d119.js.map": "/React-Portfolio/static/js/main.7722d119.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c21bcaa.css",
+    "static/js/main.7722d119.js"
+  ]
+}
